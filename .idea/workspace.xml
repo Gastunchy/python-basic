@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3858319d-7934-432c-a6fd-008ff405d9ce" name="Changes" comment="actualizacion">
-      <change afterPath="$PROJECT_DIR$/Colecciones/Colecciones_tuplas.py" afterDir="false" />
+    <list default="true" id="3858319d-7934-432c-a6fd-008ff405d9ce" name="Changes" comment="- Creacion de achivos con tuplas.&#10;- Actualizacion de Juego (no funciona lo que quise hacer)">
+      <change afterPath="$PROJECT_DIR$/Colecciones/Colecciones_conjunto.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Juego.py" beforeDir="false" afterPath="$PROJECT_DIR$/Juego.py" afterDir="false" />
     </list>
@@ -44,6 +44,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
 }</component>
@@ -55,6 +58,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.Colecciones_conjunto.executor": "Run",
     "Python.Colecciones_listas.executor": "Run",
     "Python.Colecciones_listas_elim_elemento.executor": "Run",
     "Python.Colecciones_tuplas.executor": "Run",
@@ -136,7 +140,15 @@
       <option name="project" value="LOCAL" />
       <updated>1702932622525</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="- Creacion de achivos con tuplas.&#10;- Actualizacion de Juego (no funciona lo que quise hacer)">
+      <option name="closed" value="true" />
+      <created>1702997271083</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1702997271083</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -153,6 +165,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Subida inicial" />
     <MESSAGE value="actualizacion" />
-    <option name="LAST_COMMIT_MESSAGE" value="actualizacion" />
+    <MESSAGE value="- Creacion de achivos con tuplas.&#10;- Actualizacion de Juego (no funciona lo que quise hacer)" />
+    <option name="LAST_COMMIT_MESSAGE" value="- Creacion de achivos con tuplas.&#10;- Actualizacion de Juego (no funciona lo que quise hacer)" />
   </component>
 </project>
