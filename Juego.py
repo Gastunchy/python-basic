@@ -1,27 +1,22 @@
-with open("mitupla.txt", "r") as original:
+"""Escribir un programa que pregunte al usuario su nombre, edad, dirección y teléfono y lo guarde en un diccionario.
+Después debe mostrar por pantalla el mensaje nombre tiene edad años, vive en dirección y su número de teléfono es
+teléfono"""
 
-    dato = original.readline()
+info = {
+    "Nombre": "",
+    "Edad": "",
+    "Direccion": "",
+    "Telefono": "",
+}
 
-dato = list(dato)
+for i in info:
+    dato = str(input("Cual es tu " + i + ":\t"))
+    info[i] = dato
 
-while True:
-    print("\n.:Menu:.")
-    print("1 - Ingresar palabra")
-    print("2 - Ingresar numero")
-    print("3 - Ver los datos")
-    print("4 - finalizar app")
+print(f"{info["Nombre"]} edad {info["Edad"]}, vive en {info["Direccion"]} y su número de teléfono es {info["Telefono"]}")
 
-    seleccion = int(input("Ingrese una opcion: "))
+archivo = open("Diccionario.txt", "w")
 
-    if seleccion == 1:
-        dato.append(str(input("Ingrese una palabra: ")))
-    elif seleccion == 2:
-        dato.append(float(input("Ingrese un numero: ")))
-    elif seleccion == 3:
-        print(dato)
-    elif seleccion == 4:
-        dato_str = str(dato)
-        with open("mitupla.txt", "w") as archivo:
-            archivo.write(dato_str)
-            print("Fin de app")
-            break
+archivo.write(str(info))
+
+archivo.close()

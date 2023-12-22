@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3858319d-7934-432c-a6fd-008ff405d9ce" name="Changes" comment="- Creacion de achivos con tuplas.&#10;- Actualizacion de Juego (no funciona lo que quise hacer)">
-      <change afterPath="$PROJECT_DIR$/Colecciones/Colecciones_conjunto.py" afterDir="false" />
+    <list default="true" id="3858319d-7934-432c-a6fd-008ff405d9ce" name="Changes" comment="- Creacion de achivos con conjuntos.">
+      <change afterPath="$PROJECT_DIR$/Colecciones/Coleccion_Diccionario.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/juego_2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Juego.py" beforeDir="false" afterPath="$PROJECT_DIR$/Juego.py" afterDir="false" />
     </list>
@@ -51,13 +52,16 @@
   &quot;associatedIndex&quot;: 5
 }</component>
   <component name="ProjectId" id="2ZgtweWa35r9Vgg2vdyDncwNkei" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.Coleccion_Diccionario.executor": "Run",
     "Python.Colecciones_conjunto.executor": "Run",
     "Python.Colecciones_listas.executor": "Run",
     "Python.Colecciones_listas_elim_elemento.executor": "Run",
@@ -66,6 +70,7 @@
     "Python.Ejercicio 5.executor": "Run",
     "Python.Juego.executor": "Run",
     "Python.Juego_grafica.executor": "Run",
+    "Python.juego_2.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master"
@@ -148,7 +153,15 @@
       <option name="project" value="LOCAL" />
       <updated>1702997271083</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="- Creacion de achivos con conjuntos.">
+      <option name="closed" value="true" />
+      <created>1703171319612</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1703171319612</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -166,6 +179,7 @@
     <MESSAGE value="Subida inicial" />
     <MESSAGE value="actualizacion" />
     <MESSAGE value="- Creacion de achivos con tuplas.&#10;- Actualizacion de Juego (no funciona lo que quise hacer)" />
-    <option name="LAST_COMMIT_MESSAGE" value="- Creacion de achivos con tuplas.&#10;- Actualizacion de Juego (no funciona lo que quise hacer)" />
+    <MESSAGE value="- Creacion de achivos con conjuntos." />
+    <option name="LAST_COMMIT_MESSAGE" value="- Creacion de achivos con conjuntos." />
   </component>
 </project>
