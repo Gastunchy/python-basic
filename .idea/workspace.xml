@@ -4,11 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3858319d-7934-432c-a6fd-008ff405d9ce" name="Changes" comment="- Creacion de achivos con conjuntos.">
-      <change afterPath="$PROJECT_DIR$/Colecciones/Coleccion_Diccionario.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/juego_2.py" afterDir="false" />
+    <list default="true" id="3858319d-7934-432c-a6fd-008ff405d9ce" name="Changes" comment="- Creacion de achivos con Diccionario.&#10;- Creacion de archivos juegos, para jugar con python (no salio, jeje)">
+      <change afterPath="$PROJECT_DIR$/Colecciones/Colecciones_colas.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Colecciones/Colecciones_pilas.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Colecciones/Ejercicio 1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Colecciones/Ejercicio 2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Colecciones/Ejercicio 3.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Juego.py" beforeDir="false" afterPath="$PROJECT_DIR$/Juego.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,10 +64,15 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.Coleccion_Diccionario.executor": "Run",
+    "Python.Colecciones_colas.executor": "Run",
     "Python.Colecciones_conjunto.executor": "Run",
     "Python.Colecciones_listas.executor": "Run",
     "Python.Colecciones_listas_elim_elemento.executor": "Run",
+    "Python.Colecciones_pilas.executor": "Run",
     "Python.Colecciones_tuplas.executor": "Run",
+    "Python.Ejercicio 1.executor": "Run",
+    "Python.Ejercicio 2.executor": "Run",
+    "Python.Ejercicio 3.executor": "Run",
     "Python.Ejercicio 4.executor": "Run",
     "Python.Ejercicio 5.executor": "Run",
     "Python.Juego.executor": "Run",
@@ -161,7 +168,15 @@
       <option name="project" value="LOCAL" />
       <updated>1703171319612</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="- Creacion de achivos con Diccionario.&#10;- Creacion de archivos juegos, para jugar con python (no salio, jeje)">
+      <option name="closed" value="true" />
+      <created>1703277573083</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1703277573083</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -180,6 +195,18 @@
     <MESSAGE value="actualizacion" />
     <MESSAGE value="- Creacion de achivos con tuplas.&#10;- Actualizacion de Juego (no funciona lo que quise hacer)" />
     <MESSAGE value="- Creacion de achivos con conjuntos." />
-    <option name="LAST_COMMIT_MESSAGE" value="- Creacion de achivos con conjuntos." />
+    <MESSAGE value="- Creacion de achivos con Diccionario.&#10;- Creacion de archivos juegos, para jugar con python (no salio, jeje)" />
+    <option name="LAST_COMMIT_MESSAGE" value="- Creacion de achivos con Diccionario.&#10;- Creacion de archivos juegos, para jugar con python (no salio, jeje)" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Colecciones/Colecciones_colas.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
